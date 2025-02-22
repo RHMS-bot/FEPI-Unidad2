@@ -1,0 +1,5 @@
+.nav-custom-bb {
+  border-bottom: 3px solid;
+  border-image-source: linear-gradient(to right, #637681, #037bc0);
+  border-image-slice: 1;
+}

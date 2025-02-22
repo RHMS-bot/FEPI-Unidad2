@@ -1,0 +1,11 @@
+.btn-perso {
+  color: white;
+  padding: 0;
+}
+.btn-perso:hover {
+  border: solid white 0.1rem;
+}
+
+.label-no-margin {
+  margin: 0;
+}

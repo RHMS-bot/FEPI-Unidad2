@@ -1,0 +1,111 @@
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; /* 1rem = 10px */
+  scroll-behavior: smooth;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0 0 3rem 0;
+  font-weight: 700;
+}
+h1 {
+  font-size: 4rem;
+}
+h2 {
+  font-size: 3rem;
+}
+h3 {
+  font-size: 2rem;
+}
+h4 {
+  font-size: 1.75rem;
+}
+a {
+  text-decoration: none;
+  color: black;
+  overflow-wrap: break-word;
+}
+
+p {
+  max-width: 60ch;
+  text-align: justify;
+}
+
+li {
+  max-width: 60ch;
+  text-align: justify;
+}
+
+.container {
+  max-width: 130rem;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+}
+
+.max-width-30 {
+  max-width: 30rem;
+}
+
+.img-full-cover {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 30% 70%;
+}
+
+.img-unidades:hover {
+  cursor: pointer;
+  width: 80rem !important;
+}
+
+.diapos {
+  height: 50rem;
+  max-width: 100rem;
+  margin: 0 auto;
+}
+
+.text-tertiary {
+  color: #037bc0;
+}
+
+.bg-tertiary {
+  background-color: #037bc0;
+}
+
+.img-cover {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.center-content * {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.src {
+  text-shadow: 2px 2px 2px black;
+  font-size: 1.25rem;
+}
+
+@media (max-width: 767.98px) {
+  .img-cover {
+    height: 33vh;
+  }
+}
