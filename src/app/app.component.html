@@ -4,11 +4,11 @@
     <div class="navbar-brand mr-0 col-8 col-md-5 col-lg-2 col-xl-3 order-2 order-lg-1 px-0" [routerLink]="['/']"
       (click)="collapse()" (keypress)="collapse()">
       <div class="row justify-content-center">
-        <div class="col-2 col-md-3 col-lg-6 px-0">
+        <div class="col-2 col-md-3 col-lg-3 px-0 my-auto">
           <img class="mx-auto d-none d-md-block" height="96px" width="90px" src="assets/img/ipn.png" alt="ipn">
           <img class="mx-auto d-md-none d-block" height="56px" width="52px" src="assets/img/ipn.png" alt="ipn">
         </div>
-        <div class="col-8 col-md-7 col-xl-6 d-lg-none d-xl-block my-auto font-weight-bold text-wrap px-auto"
+        <div class="col-8 col-md-7 col-xl-9 d-lg-none d-xl-block my-auto font-weight-bold text-wrap px-auto"
           [routerLink]="['/']" (click)="collapse()" onkeypress="collapse()">
           <span class="h3 font-weight-bold mb-0" translate>app.firstTitle</span><br />
           <span class="h3 font-weight-bold mb-0 text-tertiary" translate>app.secondTitle</span>
@@ -25,7 +25,7 @@
       </div>
     </div>
     <div
-      class="col-12 col-lg-8 col-xl-6 my-auto order-4 order-lg-2 collapse navbar-collapse justify-content-center px-lg-0"
+      class="col-12 col-lg-8 col-xl-5 my-auto order-4 order-lg-2 collapse navbar-collapse justify-content-center px-lg-0"
       id="navbarSupportedContent">
       <ul class="navbar-nav navbar-nav-scroll text-wrap" style="font-size: large;">
         <li [classList]="currentLink != '/' ? 'nav-item' : 'nav-item dropdown'">

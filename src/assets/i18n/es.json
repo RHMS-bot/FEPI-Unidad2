@@ -1,7 +1,7 @@
 {
   "app": {
-    "firstTitle": "Gestión",
-    "secondTitle": "Empresarial",
+    "firstTitle": "Formulación y Evaluación",
+    "secondTitle": "de Proyectos Informáticos",
     "home": "Inicio",
     "units": "Unidades",
     "moreInfo": "Más información",
@@ -54,10 +54,10 @@
     "req": { "title": "Requerimientos" }
   },
   "unit": {
-    "1": "{{index}}. Introducción a la gestión empresarial",
-    "2": "{{index}}. Gestión estratégica en las empresas de innovación tecnológica",
-    "3": "{{index}}. Gestión operativa de la empresa",
-    "4": "{{index}}. Gestión del capital humano y la calidad",
-    "5": "{{index}}. Retos de la gestión empresarial"
+    "1": "{{index}}. Aspectos generales de un proyecto y el análisis del entorno",
+    "2": "{{index}}. Innovación y la gestión del mercado",
+    "3": "{{index}}. Gestión técnica y ambiental del proyecto",
+    "4": "{{index}}. Gestión del presupuesto del proyecto",
+    "5": "{{index}}. Evaluación financiera del proyecto"
   }
 }
