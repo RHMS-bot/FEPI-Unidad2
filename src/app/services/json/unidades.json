@@ -3,8 +3,8 @@
     "indice": 1,
     "titulo": "Aspectos generales de un proyecto y el análisis del entorno",
     "imagen": {
-      "url": "https://www.awerty.net/wp-content/uploads/2019/11/Gestion-Negocio.png",
-      "src": "https://www.awerty.net/wp-content/uploads/2019/11/Gestion-Negocio.png"
+      "url": "assets/img/1.jpg",
+      "src": "https://www.freepik.es/fotos-premium/liderazgo-empresa-explicando-proyecto-informacion_16520090.htm#from_element=detail_alsolike"
     },
     "lemma": "Primero es el número uno, después todos los demás.",
     "competencia": "Identifica los aspectos generales de la formulación de proyectos informáticos a partir del planteamiento del problema.",
@@ -99,7 +99,7 @@
     "titulo": "Innovación y la gestión del mercado",
     "imagen": {
       "url": "assets/img/2.jpg",
-      "src": "https://www.pexels.com/es-es/foto/mujer-llevando-camisa-gris-3184298/"
+      "src": "https://www.freepik.es/foto-gratis/personas-negocios-analizando-grafico-barras-boligrafo_988345.htm#from_element=detail_alsolike"
     },
     "lemma": "Bien anda el que lleva el caballo por la brida.",
     "competencia": "Formula un estudio de mercado con base en la metodología Design thinking.",
@@ -263,8 +263,8 @@
     "indice": 3,
     "titulo": "Gestión técnica y ambiental del proyecto",
     "imagen": {
-      "url": "https://d1f5pwbie4mbzn.cloudfront.net/resources/default/img/pages/home/infoempresa_home_header_mobile.png",
-      "src": "https://d1f5pwbie4mbzn.cloudfront.net/resources/default/img/pages/home/infoempresa_home_header_mobile.png"
+      "url": "assets/img/3.jpg",
+      "src": "https://www.freepik.es/foto-gratis/personas-trabajo-concepto-pensamientos-chico-barbudo-contemplativo-mantiene-dedo-sien-mira-pensativamente-lado-pone-coloridas-notas-adhesivas-pared_12929904.htm#from_element=detail_alsolike"
     },
     "competencia": "Formula la estructura técnica y ambiental del proyecto con base en su metodología, plan desarrollo y sostenibilidad.",
     "lemma": "No todos podemos todo.",
@@ -358,8 +358,8 @@
     "indice": 4,
     "titulo": "Gestión del presupuesto del proyecto",
     "imagen": {
-      "url": "https://sites.google.com/site/portafoliodemercadeoaud/_/rsrc/1534912118077/calidad-en-un-producto/calidad.png",
-      "src": "https://sites.google.com/site/portafoliodemercadeoaud/_/rsrc/1534912118077/calidad-en-un-producto/calidad.png"
+      "url": "assets/img/4.jpg",
+      "src": "https://www.freepik.es/foto-gratis/mujer-asiatica-trabajando-traves-papeleo_18416218.htm#from_element=detail_alsolike"
     },
     "competencia": "Formula los presupuestos requeridos en el proyecto con base en la inversión, ingresos, egresos y ventas.",
     "lemma": "Ni picha, ni cacha, ni deja batear.",
@@ -476,10 +476,10 @@
     "indice": 5,
     "titulo": "Evaluación financiera del proyecto",
     "imagen": {
-      "url": "https://loupenlatam.com/wp-content/uploads/elementor/thumbs/BLOG-Central-Como-o-Central-ajuda-nos-desafios-de-TI-em-2021_Prancheta-1-p73zmfwovu20qrhgv3no1s74amqecke3ct1zu8bsmk.png",
-      "src": "https://loupenlatam.com/wp-content/uploads/elementor/thumbs/BLOG-Central-Como-o-Central-ajuda-nos-desafios-de-TI-em-2021_Prancheta-1-p73zmfwovu20qrhgv3no1s74amqecke3ct1zu8bsmk.png"
+      "url": "assets/img/5.jpg",
+      "src": "https://www.freepik.es/foto-gratis/trabajar-lupa-calculadora-papeles_22243377.htm#from_element=detail_alsolike"
     },
-    "competencia": "Evalúa el proyecto informático con base en losindicadores financieros y la matriz de análisis integral.",
+    "competencia": "Evalúa el proyecto informático con base en los indicadores financieros y la matriz de análisis integral.",
     "lemma": "El que no enseña, no vende.",
     "evaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
     "autoevaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
