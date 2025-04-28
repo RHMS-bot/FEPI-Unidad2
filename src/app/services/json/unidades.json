@@ -11,6 +11,13 @@
     "evaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
     "autoevaluacion": "<iframe loading='lazy' frameborder='0' style='width: 100%; height: 50rem;' src='https://forms.app/form/67e354c0025939958ce76af4' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
     "coevaluacion": "<iframe loading='lazy' frameborder='0' style='width: 100%; height: 50rem;' src='https://forms.app/form/67e5eb07a445414d7a1c689e' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
+    "activities": [
+      {
+        "section": 1.1,
+        "title": "Ejemplo de plantilla de actividades",
+        "embed": "<iframe loading='lazy' src='assets/data/Ejemplo_Plantilla.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+      }
+    ],
     "contenido": [
       {
         "seccion": 1.1,
@@ -111,8 +118,8 @@
     "lemma": "Bien anda el que lleva el caballo por la brida.",
     "competencia": "Formula un estudio de mercado con base en la metodología Design thinking.",
     "evaluacion": "<iframe loading='lazy' src='assets/data/Evaluacion_2.pdf' style='width: 100%; height: 70rem;'></iframe>",
-    "autoevaluacion": "<iframe loading='lazy' frameborder='0'  style='width: 100%; height: 50rem;' src='https://view.genial.ly/625af435f8dc320011f3709d' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
-    "coevaluacion": "<iframe loading='lazy' frameborder='0' style='width: 100%; height: 50rem;' src='https://my.forms.app/form/6287930d95113a44f6a79b6b' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
+    "autoevaluacion": "<iframe loading='lazy' frameborder='0'  style='width: 100%; height: 50rem;' src='https://docs.google.com/forms/d/e/1FAIpQLSc4x6eBH5P9yJt_LSO9z4jKZxLBtXu11067RjcLqyM5v7V3Lg/viewform?usp=header' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
+    "coevaluacion": "<iframe loading='lazy' frameborder='0' style='width: 100%; height: 50rem;' src='https://docs.google.com/forms/d/e/1FAIpQLSfscc3APzBOcuhHTOOfUDIhuGRi96nye1eWT02-4Ag4uEcWbA/viewform?usp=header' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
     "activities": [
       {
         "section": 2.1,
@@ -184,14 +191,14 @@
         "titulo": "Testeo (validar)",
         "descripcionRecurso": "",
         "keywords": [],
-        "unidad": "<p>Se trabaja en realizar las opciones que se han presentado durante la etapa de ideación. Realizar prototipos es una técnica de gran utilidad para poder visualizar las mejores ideas y poder implementarlas.</p><br><div style='display: flex; justify-content:center;'>  <div style='position: relative; display: flex; justify-content: center;'>    <img style='width: 50rem;' src='assets/img/2_2_5_Testeo.jpg'>     <div class='text-white text-wrap' style='position: absolute; bottom: 1rem; left: 1rem; padding: 0.5rem; border-radius: 0.5rem; font-size: 1.2rem;  ' data-toggle='collapse' data-target='#reqCollapse' aria-expanded='false' aria-controls='reqCollapse'>         <a class='text-reset' style='color: white;'>Fuente</a>         <span class='collapse' id='reqCollapse'> :https://www.freepik.es/foto-gratis/robot-casero-escritorio_12557404.htm#from_element=detail_alsolike</span>     </div></div></div><br><p> Garcia, N. (2025, January 13). ¿Qué es Design Thinking? Proceso, características y fases - Design Thinking en Español. Design Thinking en Español, la primera plataforma online en difundir contenido libre en español sobre el método Design Thinking e innovación. <a style='color: blue;' target='_blank' href='https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/'>https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/</a></p>"
+        "unidad": "<p>Se trabaja en realizar las opciones que se han presentado durante la etapa de ideación. Realizar prototipos es una técnica de gran utilidad para poder visualizar las mejores ideas y poder implementarlas.</p><br><div style='display: flex; justify-content:center;'>  <div style='position: relative; display: flex; justify-content: center;'>    <img style='width: 50rem;' src='assets/img/2_2_5_Testeo.jpg'>     <div class='text-white text-wrap' style='position: absolute; bottom: 1rem; left: 1rem; padding: 0.5rem; border-radius: 0.5rem; font-size: 1.2rem;  ' data-toggle='collapse' data-target='#reqCollapse' aria-expanded='false' aria-controls='reqCollapse'>         <a class='text-reset' style='color: white;'>Fuente</a>         <span class='collapse' id='reqCollapse'> :https://www.freepik.es/foto-gratis/mujer-atractiva-que-trabaja-aplicacion-software-programacion-mujer-joven-codificando-revisando-su-trabajo-computadora_27507852.htm#from_element=detail_alsolike</span>     </div></div></div><br><p> Garcia, N. (2025, January 13). ¿Qué es Design Thinking? Proceso, características y fases - Design Thinking en Español. Design Thinking en Español, la primera plataforma online en difundir contenido libre en español sobre el método Design Thinking e innovación. <a style='color: blue;' target='_blank' href='https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/'>https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/</a></p>"
       },
       {
         "seccion": 2.3,
         "titulo": "Modelo de negocios Canvas ",
         "descripcionRecurso": "",
-        "keywords": ["Identidad", "unicidad"],
-        "unidad": "",
+        "keywords": [],
+        "unidad": "<p>Es una herramienta de gestión estratégica que sirve para organizar y definir el modelo de negocio de una empresa. Permite estructurarlo en nueve elementos fundamentales y de manera coherente.</p><br><ul>    <li><b>Segmentos de clientes</b>Define con claridad el cliente al que se dirige el producto o servicio, utiliza características que identifican y segmentan a un consumidor que pueden ser potenciales clientes.</li>    <li><b>Propuesta de valor</b>Define lo que hace diferente el producto o servicio respecto a la competencia mencionando sus ventajas competitivas.</li>    <li><b>Canales de distribución</b>Estableciendo de qué forma se hará llegar al cliente la propuesta valor.</li>    <li><b>Relación con los clientes</b>Determina cómo interactúa su público objetivo con su marca.</li>    <li><b>Definir los ingresos</b>Determina la fuente de ingresos a través de la percepción de la marca y de cuánto está dispuesto a pagar el cliente por ello.</li>    <li><b>Recursos clave</b>Plantea qué recursos son necesarios para la viabilidad y éxito de la empresa. Además de los financieros, se debe definir qué recursos humanos y materiales se requieren.</li>    <li><b>Actividades clave</b>Son las actividades comerciales necesarias para el trabajo, relacionadas a la producción y solución de problemas.</li>    <li><b>Socios estratégicos</b>Es la elección de socios y proveedores que serán quienes permitan obtener los recursos necesarios para desarrollar el producto o servicio definido.</li>    <li><b>Estructura de costes</b>Establece la proporción de costes que irá dirigida a cada actividad y recurso clave.</li></ul></br><div style='display: flex; justify-content:center;'>    <img style='width: 75rem;' src='assets/img/2_3_Canvas.png'></div><br><p> Universidad Nacional de la Rioja [UNIR]. (2025, March 26). ¿Qué es un Business Model Canvas: cómo usar lienzo BMC para crear un modelo de negocio. UNIR.<a style='color: blue;' target='_blank' href='https://www.unir.net/revista/empresa/business-model-canvas/'>/https://www.unir.net/revista/empresa/business-model-canvas/</a></p>",
         "recurso": ""
       }
     ],
@@ -254,10 +261,10 @@
       },
       {
         "seccion": 2,
-        "titulo": "Gestión estratégica de la empresa",
-        "descripcionRecurso": "Presentación de genial.ly sobre la Gestión Estratégica de las empresas.",
+        "titulo": "Innovación y la gestión del mercado",
+        "descripcionRecurso": "Presentación de genial.ly sobre la innovación y la gestión del mercado.",
         "category": "reading",
-        "recurso": "<iframe title='GESTIÓN ESTRATÉGICA EN LAS EMPRESAS DE INNOVACIÓN TECNOLÓGICA' class='embed-responsive-item' frameborder='0' src='https://view.genially.com/66a29b5272763cf14d973b9f' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>"
+        "recurso": "<iframe title='INNOVACIÓN Y LA GESTIÓN DEL MERCADO' class='embed-responsive-item' frameborder='0' src='https://view.genially.com/67eb1c47fbde99f53707372f' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>"
       }
     ]
   },
