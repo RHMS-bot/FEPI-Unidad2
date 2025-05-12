@@ -11,6 +11,7 @@
     "evaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
     "autoevaluacion": "<iframe loading='lazy' frameborder='0' style='width: 100%; height: 50rem;' src='https://forms.app/form/67e354c0025939958ce76af4' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
     "coevaluacion": "<iframe loading='lazy' frameborder='0' style='width: 100%; height: 50rem;' src='https://forms.app/form/67e5eb07a445414d7a1c689e' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
+    "extraLabel": "Podcasts",
     "activities": [
       {
         "section": 1.1,
@@ -120,6 +121,7 @@
     "evaluacion": "<iframe loading='lazy' src='assets/data/Evaluacion_2.pdf' style='width: 100%; height: 70rem;'></iframe>",
     "autoevaluacion": "<iframe loading='lazy' frameborder='0'  style='width: 100%; height: 50rem;' src='https://docs.google.com/forms/d/e/1FAIpQLSc4x6eBH5P9yJt_LSO9z4jKZxLBtXu11067RjcLqyM5v7V3Lg/viewform?usp=header' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
     "coevaluacion": "<iframe loading='lazy' frameborder='0' style='width: 100%; height: 50rem;' src='https://docs.google.com/forms/d/e/1FAIpQLSfscc3APzBOcuhHTOOfUDIhuGRi96nye1eWT02-4Ag4uEcWbA/viewform?usp=header' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
+    "extraLabel": "Formatos",
     "activities": [
       {
         "section": 2.1,
@@ -163,7 +165,7 @@
         "titulo": "Empatizar con el usuario y explorar el mercado",
         "descripcionRecurso": "",
         "keywords": [],
-        "unidad": "<p>Consiste en conocer las necesidades de los usuarios implicados en las actividades que estamos desarrollando, para producir soluciones consecuentes con la realidad observada.</p><br><div style='display: flex; justify-content:center;'>  <div style='position: relative; display: flex; justify-content: center;'>    <img style='width: 50rem;' src='assets/img/2_2_1_Empatizar.jpg'>     <div class='text-white text-wrap' style='position: absolute; bottom: 1rem; left: 1rem; padding: 0.5rem; border-radius: 0.5rem; font-size: 1.2rem;  ' data-toggle='collapse' data-target='#reqCollapse' aria-expanded='false' aria-controls='reqCollapse'>         <a class='text-reset' style='color: white;'>Fuente</a>        <span class='collapse' id='reqCollapse'> :https://www.freepik.es/foto-gratis/gente-negocios-dandose-mano-escritorio-oficina_3077758.htm#from_element=detail_alsolike</span>     </div></div></div><br><p> Garcia, N. (2025, January 13). ¿Qué es Design Thinking? Proceso, características y fases - Design Thinking en Español. Design Thinking en Español, la primera plataforma online en difundir contenido libre en español sobre el método Design Thinking e innovación. <a style='color: blue;' target='_blank' href='https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/'>https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/</a></p>"
+        "unidad": "<p>Consiste en conocer las necesidades de los usuarios implicados en la solución que estamos desarrollando, para producir soluciones consecuentes con la realidad observada.</p><br>        <iframe loading='lazy' src='assets/data/InfoBuyerPersona.pdf' class='embed-responsive-item' style='width: 100%; height: 50rem;' ></iframe>   <br><br><p> Garcia, N. (2025, January 13). ¿Qué es Design Thinking? Proceso, características y fases - Design Thinking en Español. Design Thinking en Español, la primera plataforma online en difundir contenido libre en español sobre el método Design Thinking e innovación. <a style='color: blue;' target='_blank' href='https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/'>https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/</a></p>"
       },
       {
         "seccion": "2.2.2",
@@ -203,20 +205,6 @@
       }
     ],
     "recurso": [
-      {
-        "seccion": 2.0,
-        "titulo": "Proceso Administrativo",
-        "descripcionRecurso": "¿Quieres saber más?",
-        "category": "reading",
-        "recurso": "<iframe class='embed-responsive-item' frameborder='0' scrolling='no' style='border:0px' src='https://books.google.com.gt/books?id=b8_hBAAAQBAJ&lpg=PR4&hl=es&pg=PP1&output=embed'></iframe>"
-      },
-      {
-        "seccion": 2.0,
-        "titulo": "La Pinche Complejidad con Nicolás Alvarado",
-        "descripcionRecurso": "La complejidad de la comida y su gentrificación en la CDMX, discutamos el tema",
-        "category": "podcast",
-        "recurso": "<iframe src='https://open.spotify.com/embed/episode/0r1r2m4WzERzASnUADDFZs?utm_source=generator' class='embed-responsive-item' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe>"
-      },
       {
         "seccion": 2.0,
         "titulo": "Los Pericos - Todos lo Hacen",
@@ -259,6 +247,59 @@
         "category": "video",
         "recurso": "<iframe class='embed-responsive-item' src='https://www.youtube.com/embed/_6vz0-Hx9cE' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen=''></iframe>"
       },
+      
+
+
+
+      {
+        "seccion": 2.2,
+        "titulo": "Actividad de Introducción al DT",
+        "descripcionRecurso": "Formato utilizado en la actividad 2.2",
+        "category": "extra",
+        "recurso": "<iframe loading='lazy' src='assets/data/Extra_2_2.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+      },
+      {
+        "seccion": "2.2.1",
+        "titulo": "Clasificación de producto",
+        "descripcionRecurso": "Formato utilizado en la actividad 2.2.1",
+        "category": "extra",
+        "recurso": "<iframe loading='lazy' src='assets/data/Extra_2_2_1.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+      },
+      {
+        "seccion": "2.2.2",
+        "titulo": "Actividad buyer persona, entrevista a tu adulto",
+        "descripcionRecurso": "Formato utilizado en la actividad 2.2.2",
+        "category": "extra",
+        "recurso": "<iframe loading='lazy' src='assets/data/Extra_2_2_2.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+      },
+      {
+        "seccion": "2.2.3",
+        "titulo": "Rediseñar la cartera/mochila",
+        "descripcionRecurso": "Formato utilizado en la actividad 2.2.3",
+        "category": "extra",
+        "recurso": "<iframe loading='lazy' src='assets/data/Extra_2_2_3.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+      },
+      {
+        "seccion": "2.3",
+        "titulo": "Modelo Canvas",
+        "descripcionRecurso": "Formato utilizado en la actividad 2.3",
+        "category": "extra",
+        "recurso": "<iframe loading='lazy' src='assets/data/Extra_2_3.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+      },
+      {
+        "seccion": 2.3,
+        "titulo": "Guía para el diseño de modelo Canvas",
+        "descripcionRecurso": "Guía para el diseño de modelos de negocios basado en el modelo Canvas",
+        "category": "reading",
+        "recurso": "<iframe loading='lazy' src='assets/data/Reading_2_3.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+      },
+      {
+        "seccion": 2.3,
+        "titulo": "Diseño de modelos de negocio Canvas",
+        "descripcionRecurso": "Presentación de genial.ly sobre el diseño de modelos de negocio Canvas",
+        "category": "reading",
+        "recurso": "<iframe title='DISEÑO DE MODELOS DE NEGOCIO CANVAS' class='embed-responsive-item' frameborder='0' src='https://view.genially.com/610decf150b0820d15af087e' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>"
+      },
       {
         "seccion": 2,
         "titulo": "Innovación y la gestión del mercado",
@@ -266,6 +307,7 @@
         "category": "reading",
         "recurso": "<iframe title='INNOVACIÓN Y LA GESTIÓN DEL MERCADO' class='embed-responsive-item' frameborder='0' src='https://view.genially.com/67eb1c47fbde99f53707372f' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>"
       }
+
     ]
   },
   {
