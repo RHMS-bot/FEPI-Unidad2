@@ -2,7 +2,7 @@
   <article *ngIf="tipo == 1 || (tipo == 0 && selection == 'contenidos')">
     <div *ngIf="tipo == 1">
       <h4 class="font-weight-bold w-100 mt-4">
-        Aquí encontrarás videos, lecturas, podcasts, entre otros elementos auxiliares a la unidad
+        Aquí encontrarás videos, lecturas, entre otros elementos auxiliares a la unidad
         {{unidad.indice}}.
         {{unidad.titulo}}. De click en el título de cada sección para visualizar el contenido.
       </h4>
@@ -16,9 +16,9 @@
             type="radio" class="btn-check" name="rsrcsCategory" id="reading" autocomplete="off" [value]="'reading'"
             [(ngModel)]="rsrcsCategory" />Lecturas</label>
         <label
-          [classList]="rsrcsCategory === 'podcast' ? 'btn btn-outline-info label-no-margin active':'btn btn-outline-info label-no-margin'"><input
-            type="radio" class="btn-check" name="rsrcsCategory" id="podcast" autocomplete="off" [value]="'podcast'"
-            [(ngModel)]="rsrcsCategory" />Podcasts</label>
+          [classList]="rsrcsCategory === 'extra' ? 'btn btn-outline-info label-no-margin active':'btn btn-outline-info label-no-margin'"><input
+            type="radio" class="btn-check" name="rsrcsCategory" id="extra" autocomplete="off" [value]="'extra'"
+            [(ngModel)]="rsrcsCategory" />{{unidad.extraLabel}}</label>
       </div>
     </div>
     <h4 *ngIf="tipo == 0" class="font-weight-bold w-100 mt-4 mb-0">
