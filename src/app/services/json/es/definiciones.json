@@ -1,5 +1,15 @@
 [
   {
+    "word": "Análisis FODA",
+    "definition": "También llamado DAFO (Debilidades, Amenazas, Fortalezas y Oportunidades) tiene por objeto integrar el diagnóstico interno con el externo para orientar a la empresa en la formulación de la estrategia más conveniente. Suele representarse en un cuadro, que constituye un inventario de temas estratégicos para el análisis. La combinación de los puntos fuertes y débiles con las oportunidades y amenazas permite la formulación de estrategias.",
+    "sources": "Pérez M.J. (1997). Estrategia, gestión y habilidades directivas. Diaz de Santos."
+  },
+  {
+    "word": "Ciclo de vida",
+    "definition": "Es el conjunto de actividades estructuradas que van desde la concepción de una idea hasta el mantenimiento del producto final.",
+    "sources": "Pressman, R. S. (2010). Ingeniería de software: Un enfoque práctico. McGraw Hill Educación. ISBN 9786071503145."
+  },
+  {
     "word": "Competividad",
     "definition": "Es la capacidad de la empresa para competir en su sector, entendida como posición actual frente a los competidores y como capacidad para sostener su posición de forma duradera. Se puede medir en términos de eficiencia, el índice de eficiencia global (EG) es el cociente entre el resultado actual (RA) y el resultado medio (RM) de la empresa en su entorno competitivo. EG = (RA/RM)",
     "sources": "Pérez M.J. (1997). Estrategia, gestión y habilidades directivas. Diaz de Santos."
@@ -14,10 +24,20 @@
     "definition": "Son los valores y supuestos básicos que caracterizan a una organización. Se refiere a los elementos básicos de una empresa, o la manera como se desenvuelve, a todo el ambiente corporativo, incluyendo cuestiones como las tendencias de compartir o no la información entre las unidades y las personas, la disposición de las personas y la tendencia de los empleados para trabajar con tecnologías e ideas nuevas.",
     "sources": "A. Whetten David y S- Cameron kIm. (2011). Desarrollo de habilidades directivas. Prentice Hall. Effy O. (2016). Administración de sistemas de información. Cengage Learning."
   },
+   {
+    "word": "Definir",
+    "definition": "Fase de Design Thinking, una vez obtenida la información y contrastado las hipótesis, se analiza exhaustivamente y reflexiona sobre las conclusiones a las que se ha llegado.",
+    "sources": "Garcia, N. (2025, January 13). ¿Qué es Design Thinking? Proceso, características y fases - Design Thinking en Español. Design Thinking en Español, la primera plataforma online en difundir contenido libre en español sobre el método Design Thinking e innovación. <a style='color: blue;' target='_blank' href='https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/'>Fuente</a>"
+  },
   {
-    "word": "Análisis FODA",
-    "definition": "También llamado DAFO (Debilidades, Amenazas, Fortalezas y Oportunidades) tiene por objeto integrar el diagnóstico interno con el externo para orientar a la empresa en la formulación de la estrategia más conveniente. Suele representarse en un cuadro, que constituye un inventario de temas estratégicos para el análisis. La combinación de los puntos fuertes y débiles con las oportunidades y amenazas permite la formulación de estrategias.",
-    "sources": "Pérez M.J. (1997). Estrategia, gestión y habilidades directivas. Diaz de Santos."
+    "word": "Design Thinking",
+    "definition": "Es un enfoque de innovación centrado en el ser humano, anclado en la comprensión de las necesidades del cliente, la creación rápida de prototipos y la generación de ideas creativas",
+    "sources": "IDEO. (n.d.). Design Thinking Framework, Innovation & Methodology. <a style='color: blue;' target='_blank' href='https://www.ideou.com/pages/design-thinking'>Fuente</a>"
+  },
+  {
+    "word": "Empatizar",
+    "definition": "Fase de Design Thinking que consiste en conocer las necesidades de los usuarios implicados en la solución que estamos desarrollando, para producir soluciones consecuentes con la realidad observada.",
+    "sources": "Garcia, N. (2025, January 13). ¿Qué es Design Thinking? Proceso, características y fases - Design Thinking en Español. Design Thinking en Español, la primera plataforma online en difundir contenido libre en español sobre el método Design Thinking e innovación. <a style='color: blue;' target='_blank' href='https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/'>Fuente</a>"
   },
   {
     "word": "Estrategia",
@@ -25,9 +45,19 @@
     "sources": "Pérez M.J. (1997). Estrategia, gestión y habilidades directivas. Diaz de Santos. Cummings T. G. Worley C. G. (2007). Desarrollo organizacional y cambio. Thompson."
   },
   {
+    "word": "Idear",
+    "definition": "Fase de Design Thinking que genera un sinfín de ideas mediante la puesta en duda del estado actual de la situación. Las alternativas pueden ser las que mejores resultados obtengan.",
+    "sources": "Garcia, N. (2025, January 13). ¿Qué es Design Thinking? Proceso, características y fases - Design Thinking en Español. Design Thinking en Español, la primera plataforma online en difundir contenido libre en español sobre el método Design Thinking e innovación. <a style='color: blue;' target='_blank' href='https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/'>Fuente</a>"
+  },
+  {
     "word": "Innovación tecnológica",
     "definition": "Es la introducción al mercado de un producto o proceso nuevo o mejorado que alcanza plena realización práctica, industrial o comercial. La innovación de producto permite ofrecer productos mejorados, mientras que la innovación de proceso mejora la productividad, flexibilidad, calidad o condiciones de trabajo.",
     "sources": "Pérez M.J. (1997). Estrategia, gestión y habilidades directivas. Diaz de Santos."
+  },
+  {
+    "word": "Mercado",
+    "definition": "Es un conjunto de individuos u organizaciones con necesidades que pueden ser satisfechas con los productos o servicios de una empresa, con el deseo y la capacidad de adquirirlos.",
+    "sources": "Lamb, Charles W.; Hair, Joseph F.; McDaniel, Carl. Marketing. Cengage Learning."
   },
   {
     "word": "Misión",
@@ -35,9 +65,9 @@
     "sources": "Pérez M.J. (1997). Estrategia, gestión y habilidades directivas. Diaz de Santos. Alcaraz R., R. (2001). El emprendedor del éxito. Mc Graw Hill."
   },
   {
-    "word": "Modelo de negocio",
-    "definition": "Descripción de las bases sobre las que una empresa crea, proporciona y capta valor de los clientes, en el cual se planifica a largo plazo, se evitan errores costosos y ayuda a tener una ventaja competitiva.",
-    "sources": "Osterwalder/A. (2015). Generación de Modelo de Negocio. DEUSTO."
+    "word": "Modelo de negocio canvas",
+    "definition": "Herramienta de gestión estratégica propuesta por Alexander Osterwalder que sirve para organizar y definir el modelo de negocio de una empresa estructurándolo en nueve elementos fundamentales y de manera coherente.",
+    "sources": "Garcia, N. (2025, January 13). ¿Qué es Design Thinking? Proceso, características y fases - Design Thinking en Español. Design Thinking en Español, la primera plataforma online en difundir contenido libre en español sobre el método Design Thinking e innovación. <a style='color: blue;' target='_blank' href='https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/'>Fuente</a>"
   },
   {
     "word": "Plan comercial",
@@ -55,14 +85,29 @@
     "sources": "Hitt M. A. Black S. J. y Porter L. W. (2006). Administración. Pearson Educación. Daft R. L. (2013). Teoría y diseño organizacional. Thomson."
   },
   {
-    "word": "Procedimientos",
-    "definition": "Son planes por medio de los cuales se establece un método para el manejo de actividades futuras. Consisten en secuencias cronológicas de las acciones requeridas. Son guías de acción, no de pensamiento, en las que se detalla la manera exacta en que deben realizarse ciertas actividades.",
-    "sources": "Harold, K. et al. (2012). Administración, una perspectiva global y empresarial. Mc Graw Hill."
+    "word": "Problema",
+    "definition": "Es una pregunta o situación que plantea una dificultad para ser resuelta, y cuya solución no es inmediata ni obvia.",
+    "sources": "Bunge, Mario. La ciencia, su método y su filosofía. Editorial Siglo XXI."
   },
   {
     "word": "Programas",
     "definition": "Son un conjunto de metas, políticas, procedimientos, reglas, asignaciones de tareas, pasos a seguir, recursos por emplear y otros elementos necesarios para llevar a cabo un curso de acción.",
     "sources": "Capacitación Administrativa en Línea. (Recuperado en 2022). Curso de administración de empresas. <a style='color: blue;' target='_blank' href='http://cursodeadministraciondeempresas.com/los-programas-en-la-administracion'>Fuente</a>"
+  },
+  {
+    "word": "Prototipar",
+    "definition": "Fase de Design Thinking donde se convierten en realidad las opciones que se han ocurrido a través de la ideación. Realiza prototipos para poder visualizar las mejores ideas y poder implementarlas.",
+    "sources": "Garcia, N. (2025, January 13). ¿Qué es Design Thinking? Proceso, características y fases - Design Thinking en Español. Design Thinking en Español, la primera plataforma online en difundir contenido libre en español sobre el método Design Thinking e innovación. <a style='color: blue;' target='_blank' href='https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/'>Fuente</a>"
+  },
+  {
+    "word": "Proyecto",
+    "definition": "Es búsqueda de una solución inteligente al planteamiento de un problema que tiende a resolver, entre tantos, una necesidad humana.",
+    "sources": "Project Management Institute [PMI]. (2017). La Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6.a ed.). Project Management Institute."
+  },
+  {
+    "word": "Técnicas de análisis",
+    "definition": "Son los métodos utilizados para examinar y resolver problemas mediante la identificación de causas, patrones y relaciones. Estas herramientas ayudan en la toma de decisiones, y el diagnóstico de problemas.",
+    "sources": "Herramientas de gestión de calidad | SafetyCulture. (2024, 12 febrero). SafetyCulture.  <a style='color: blue;' target='_blank' href='https://safetyculture.com/es/temas/herramientas-de-gestion-de-calidad/'>Fuente</a>"
   },
   {
     "word": "Visión",

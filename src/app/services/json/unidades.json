@@ -321,63 +321,63 @@
     "lemma": "No todos podemos todo.",
     "evaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
     "autoevaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
-    "coevaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
+    "coevaluacion": "<iframe loading='lazy' frameborder='0' style='width: 100%; height: 50rem;' src='https://docs.google.com/forms/d/e/1FAIpQLSfscc3APzBOcuhHTOOfUDIhuGRi96nye1eWT02-4Ag4uEcWbA/viewform?usp=header' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
     "contenido": [
       {
         "seccion": 3.1,
         "titulo": "Plan de gestión para la dirección del proyecto",
         "descripcionRecurso": "",
         "keywords": [],
-        "unidad": "<h3 class='text-center'>Sección sin información</h3>"
+        "unidad": "<p>El plan para la dirección del proyecto es el documento que describe el modo en que el proyecto será ejecutado, monitoreado, controlado y cerrado.</p><br><p>Integra y consolida todos los planes de gestión y líneas base subsidiarias y demás información necesaria para dirigir el proyecto.</p><br><p>Los componentes del plan para la dirección del proyecto incluyen:</p><ul>    <li>Plan de gestión del alcance</li>    <li>Plan de gestión de los requisitos</li>    <li>Plan de gestión del cronograma</li>    <li>Plan de gestión de los costo</li>    <li>Plan de gestión de la calidad</li>    <li>Plan de gestión de los riesgos</li></ul></br><div style='display: flex; justify-content:center;'>    <img style='width: 75rem;' src='assets/img/3_1_PlanGestion.png'></div><br><p> Project Management Institute [PMI]. (2017). La Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6.a ed.). Project Management Institute.</p>"
       },
       {
         "seccion": "3.1.1",
         "titulo": "Gestión de Integración del proyecto",
         "descripcionRecurso": "",
         "keywords": [],
-        "unidad": "<h3 class='text-center'>Sección sin información</h3>"
+        "unidad": "<p>La gestión de la integración del proyecto incluye los procesos y actividades para identificar, definir, combinar, unificar y coordinar los diversos procesos y actividades de dirección del proyecto dentro de los grupos de procesos de la dirección de proyectos.</p><br><p>Algunas actividades que realiza la gestión de integración del proyecto son:</p><ul>    <li>Garantizar que los plazos establecidos para los entregables estén debidamente coordinados</li>    <li>Supervisar el rendimiento y gestionar los cambios en las actividades del proyecto</li>    <li>Recopilar información sobre los resultados obtenidos</li>    <li>Evaluar y dar seguimiento al progreso del proyecto</li>    <li>Realizar el cierre formal de cada fase, contrato y del proyecto en su totalidad.</li></ul></br><div style='display: flex; justify-content:center;'>  <div style='position: relative; display: flex; justify-content: center;'>    <img style='width: 50rem;' src='assets/img/3_1_1_Integracion.png'>     <div class='text-black text-wrap' style='position: absolute; bottom: 1rem; left: 1rem; padding: 0.5rem; border-radius: 0.5rem; font-size: 1.2rem;  ' data-toggle='collapse' data-target='#reqCollapse' aria-expanded='false' aria-controls='reqCollapse'>         <a class='text-reset' style='color: black;'>Fuente</a>         <span class='collapse' id='reqCollapse'> :https://www.gladysgbegnedji.com/gestion-de-la-integracion-del-proyecto/</span>     </div></div></div><br><p> Project Management Institute [PMI]. (2017). La Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6.a ed.). Project Management Institute.</p>"
       },
       {
         "seccion": "3.1.2",
         "titulo": "Gestión del conocimiento",
         "descripcionRecurso": "",
         "keywords": [],
-        "unidad": "<h3 class='text-center'>Sección sin información</h3>"
+        "unidad": "<p>Es el proceso de utilizar el conocimiento existente y crear nuevo conocimiento para alcanzar los objetivos del proyecto y contribuir al aprendizaje organizacional.</p><br><p>La gestión del conocimiento se ocupa de gestionar tanto el conocimiento tácito como el explícito para volver a utilizar el conocimiento existente.</p><ul>    <li><b>Conocimiento explícito:</b> conocimiento que puede codificarse fácilmente mediante palabras, imágenes y números.</li>    <li><b>Conocimiento tácito:</b> conocimiento que es personal y difícil de expresar como creencias,percepciones, experiencia y el “saber hacer”.</li></ul></br><div style='display: flex; justify-content:center;'>  <div style='position: relative; display: flex; justify-content: center;'>    <img style='width: 50rem;' src='assets/img/3_1_2_GestionConocimiento.jpg'>     <div class='text-white text-wrap' style='position: absolute; bottom: 1rem; left: 1rem; padding: 0.5rem; border-radius: 0.5rem; font-size: 1.2rem;  ' data-toggle='collapse' data-target='#reqCollapse' aria-expanded='false' aria-controls='reqCollapse'>         <a class='text-reset' style='color: white;'>Fuente</a>         <span class='collapse' id='reqCollapse'> :https://www.freepik.es/foto-gratis/joven-tenencia-telefono_1281825.htm#from_element=detail_alsolike</span>     </div></div></div><br><p> Project Management Institute [PMI]. (2017). La Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6.a ed.). Project Management Institute.</p>"
       },
       {
         "seccion": 3.2,
         "titulo": "Plan de desarrollo del software",
         "descripcionRecurso": "",
         "keywords": [],
-        "unidad": "<h3 class='text-center'>Sección sin información</h3>"
+        "unidad": "<p>Se define como una estructura para las actividades, acciones y tareas que se requieren a fin de construir software de alta calidad.</p><br><p> Una estructura general para la ingeniería de software define cinco actividades: comunicación, planeación, modelado, construcción y despliegue.</p><br><div style='display: flex; justify-content:center;'>    <img style='width: 75rem;' src='assets/img/3_2_PlanDesarrollo.png'></div><br><p> Pressman, R. S. (2010). Ingeniería de software: Un enfoque práctico. McGraw Hill Educación. ISBN 9786071503145.</p>"
       },
       {
         "seccion": "3.2.1",
         "titulo": "Actividades para el análisis de requerimientos y diseño de la arquitectura del software",
         "descripcionRecurso": "",
         "keywords": [],
-        "unidad": "<h3 class='text-center'>Sección sin información</h3>"
+        "unidad": "<p>Actividades del <b>análisis de requerimientos:</b></p><br><ul>    <li>Entender el alcance del proyecto</li>    <li>Involucrar en la actividad de planeación a los participantes del software</li>    <li>Representar y entender el dominio de información de un problema</li>    <li>Definir las funciones que realizará el software</li>    <li>Representar el comportamiento del software (como consecuencia de eventos externos)</li></ul><br><p>Actividades de <b>diseño de arquitectura:</b></p><br><ul>    <li>Diseñar de forma que debe poderse rastrear hasta el modelo de requerimientos</li>    <li>Tomar en cuenta que el diseño de los datos es tan importante como el de las funciones de procesamiento</li>    <li>Diseñar cuidadosamente las interfaces</li>    <li>Diseñar componentes que tengan independencia funcional</li>    <li>Diseñar componentes que deben estar acoplados con holgura entre sí</li></ul><br><div style='display: flex; justify-content:center;'>  <div style='position: relative; display: flex; justify-content: center;'>    <img style='width: 50rem;' src='assets/img/3_2_1_Anlaisis_Diseno.jpg'>     <div class='text-white text-wrap' style='position: absolute; bottom: 1rem; left: 1rem; padding: 0.5rem; border-radius: 0.5rem; font-size: 1.2rem;  ' data-toggle='collapse' data-target='#reqCollapse' aria-expanded='false' aria-controls='reqCollapse'>         <a class='text-reset' style='color: white;'>Fuente</a>         <span class='collapse' id='reqCollapse'> :https://www.freepik.es/foto-gratis/supervisor-proyecto-hombre-sosteniendo-portatil-apuntando-pantalla_19145493.htm#from_element=detail_alsolike</span>     </div></div></div><br><p>Pressman, R. S. (2010). Ingeniería de software: Un enfoque práctico. McGraw Hill Educación. ISBN 9786071503145.</p>"
       },
       {
         "seccion": "3.2.2",
         "titulo": "Actividades para la programación",
         "descripcionRecurso": "",
         "keywords": [],
-        "unidad": "<h3 class='text-center'>Sección sin información</h3>"
+        "unidad": "<p>Actividades para la <b>programación:</b></p><br><ul>    <li>Elegir un lenguaje de programación que satisfaga las necesidades del software</li>    <li>Seleccionar un ambiente de programación que disponga de herramientas que faciliten el trabajo</li>    <li>Restringir algoritmos por medio del uso de programación estructurada</li>    <li>Seleccionar estructuras de datos que satisfagan las necesidades del diseño</li>    <li>Mantener la lógica condicional tan sencilla como sea posible</li></ul><br><div style='display: flex; justify-content:center;'>  <div style='position: relative; display: flex; justify-content: center;'>    <img style='width: 50rem;' src='assets/img/3_2_2_Programacion.jpg'>     <div class='text-white text-wrap' style='position: absolute; bottom: 1rem; left: 1rem; padding: 0.5rem; border-radius: 0.5rem; font-size: 1.2rem;  ' data-toggle='collapse' data-target='#reqCollapse' aria-expanded='false' aria-controls='reqCollapse'>         <a class='text-reset' style='color: white;'>Fuente</a>         <span class='collapse' id='reqCollapse'> :https://www.freepik.es/foto-gratis/experiencia-programacion-persona-que-trabaja-codigos-computadora_38669459.htm#from_element=detail_alsolike</span>     </div></div></div><br><p>Pressman, R. S. (2010). Ingeniería de software: Un enfoque práctico. McGraw Hill Educación. ISBN 9786071503145.</p>"
       },
       {
         "seccion": "3.2.3",
         "titulo": "Actividades para las pruebas e implementación ",
         "descripcionRecurso": "",
         "keywords": [],
-        "unidad": "<h3 class='text-center'>Sección sin información</h3>"
+        "unidad": "<p>Actividades para <b>pruebas:</b></p><br><ul>    <li>Ejecutar pruebas con objeto de encontrar un error</li>    <li>Rastrear todas las pruebas hasta los requerimientos del cliente</li>    <li>Aislar los componentes sospechosos y probarlos a fondo</li>    <li>Realizar pruebas comenzando “en lo pequeño” y avanzar hacia “lo grande”</li></ul><br><div style='display: flex; justify-content:center;'>  <div style='position: relative; display: flex; justify-content: center;'>    <img style='width: 50rem;' src='assets/img/3_2_3_Pruebas.jpg'>     <div class='text-white text-wrap' style='position: absolute; bottom: 1rem; left: 1rem; padding: 0.5rem; border-radius: 0.5rem; font-size: 1.2rem;  ' data-toggle='collapse' data-target='#reqCollapse' aria-expanded='false' aria-controls='reqCollapse'>         <a class='text-reset' style='color: white;'>Fuente</a>         <span class='collapse' id='reqCollapse'> :https://www.freepik.es/foto-gratis/poniendo-atencion-cada-momento-examinador-poligrafo-trabaja-oficina-equipo-su-detector-mentiras_9829462.htm#from_element=detail_alsolike</span>     </div></div></div><br><p>Pressman, R. S. (2010). Ingeniería de software: Un enfoque práctico. McGraw Hill Educación. ISBN 9786071503145.</p>"
       },
       {
         "seccion": "3.2.4",
         "titulo": "Actividades para el despliegue y mantenimiento",
         "descripcionRecurso": "",
         "keywords": [],
-        "unidad": "<h3 class='text-center'>Sección sin información</h3>"
+        "unidad": "<p>Actividades para el <b>despliegue:</b></p><br><ul>    <li>Ensamblar y probar el paquete completo que se entregará</li>    <li>Antes de entregar el software, debe establecerse un régimen de apoyo</li>    <li>Proporcionar a los usuarios finales materiales de aprendizaje apropiados</li>    <li>Corregir software defectuoso para poder entregarse</li></ul><br><p>Actividades para el <b>mantenimiento:</b></p><br><ul>    <li>Realizar cambios para corregir errores descubiertos en el software después de su entrega</li>    <li>Modificar el software para que funcione en un nuevo entorno si es requerido</li>    <li>Mejorar o perfeccionar el rendimiento o mantenibilidad del sistema</li></ul><br><div style='display: flex; justify-content:center;'>  <div style='position: relative; display: flex; justify-content: center;'>    <img style='width: 50rem;' src='assets/img/3_2_4_Despliegue_Mantenimiento.jpg'>     <div class='text-white text-wrap' style='position: absolute; bottom: 1rem; left: 1rem; padding: 0.5rem; border-radius: 0.5rem; font-size: 1.2rem;  ' data-toggle='collapse' data-target='#reqCollapse' aria-expanded='false' aria-controls='reqCollapse'>         <a class='text-reset' style='color: white;'>Fuente</a>         <span class='collapse' id='reqCollapse'> :https://www.freepik.es/foto-gratis/todo-mundo-haciendo-su-trabajo-jovenes-que-trabajan-centro-llamadas-acercan-nuevas-ofertas_9694572.htm#from_element=detail_alsolike</span>     </div></div></div><br><p>Pressman, R. S. (2010). Ingeniería de software: Un enfoque práctico. McGraw Hill Educación. ISBN 9786071503145.</p>"
       },
       {
         "seccion": "3.2.5",
@@ -397,11 +397,10 @@
     "recurso": [
       {
         "seccion": 3.1,
-        "titulo": "Aún no existe información para esta unidad",
-        "descripcionRecurso": "",
-        "keywords": [],
-        "unidad": "<h3 class='text-center'>Sección sin información</h3>",
-        "recurso": ""
+        "titulo": "Gestión técnica y ambiental del proyecto",
+        "descripcionRecurso": "Presentación de genial.ly sobre la gestión técnica y ambiental del proyecto.",
+        "category": "reading",
+        "recurso": "<iframe title='GESTIÓN TÉCNICA Y AMBIENTALK DEL PROYECTO' class='embed-responsive-item' frameborder='0' src='https://view.genially.com/682fb2fdeac753532cb2925a' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>"
       }
     ]
   },
