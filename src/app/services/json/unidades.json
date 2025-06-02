@@ -94,11 +94,24 @@
     "recurso": [
       {
         "seccion": 1.1,
-        "titulo": "Aún no existe información para esta unidad",
-        "descripcionRecurso": "",
-        "keywords": [],
-        "unidad": "<h3 class='text-center'>Sección sin información</h3>",
-        "recurso": ""
+        "titulo": "¿Qué es un proyecto?",
+        "descripcionRecurso": "Introducción a los proyectos",
+        "category": "video",
+        "recurso": "<iframe class='embed-responsive-item' src='https://www.youtube.com/embed/y9AhMKUISZA?si=nSChNlsLoYpkKnhB' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen=''></iframe>"
+      },
+      {
+        "seccion": 1.1,
+        "titulo": "¿Cómo hacer un árbol de problemas?",
+        "descripcionRecurso": "Definición y ejemplos de un árbol de problemas",
+        "category": "video",
+        "recurso": "<iframe class='embed-responsive-item' src='https://www.youtube.com/embed/eO7sNmZ9Ut8?si=4X0SMKR6cDlgbii2' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen=''></iframe>"
+      },
+      {
+        "seccion": 1.1,
+        "titulo": "Árbol de problemas",
+        "descripcionRecurso": "Metodología para el análisis de problemas",
+        "category": "reading",
+        "recurso": "<iframe loading='lazy' src='assets/data/ArbolProblemas.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
         "seccion": 1,
@@ -206,51 +219,12 @@
     ],
     "recurso": [
       {
-        "seccion": 2.0,
-        "titulo": "Los Pericos - Todos lo Hacen",
-        "descripcionRecurso": "Reflexionemos sobre valores.",
+        "seccion": "2.1.1",
+        "titulo": "Benchmarking Starbucks",
+        "descripcionRecurso": "Análisis de la estrategia de Starbucks",
         "category": "video",
-        "recurso": "<iframe class='embed-responsive-item' src='https://www.youtube-nocookie.com/embed/RV47ycSh5vU?si=VNaRR-T5Nqno8gM8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen=''></iframe>"
+        "recurso": "<iframe class='embed-responsive-item' src='https://www.youtube.com/embed/32DrIi3b-Hg?si=VBvCqpRqqnspwIPh' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen=''></iframe>"
       },
-      {
-        "seccion": 2.1,
-        "titulo": "¿Cómo Hacer una Visión?",
-        "descripcionRecurso": "Miremos al futuro.",
-        "category": "video",
-        "recurso": "<iframe class='embed-responsive-item' src='https://www.youtube.com/embed/Lk6OfqndH1k' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen=''></iframe>"
-      },
-      {
-        "seccion": 2.2,
-        "titulo": "¿Cómo Hacer una Misión?",
-        "descripcionRecurso": "Miremos el hoy.",
-        "category": "video",
-        "recurso": "<iframe class='embed-responsive-item' src='https://www.youtube.com/embed/d-IqjXIgyJg' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen=''></iframe>"
-      },
-      {
-        "seccion": 2.3,
-        "titulo": "Cómo Determino los Valores Empresariales para mi Negocio?",
-        "descripcionRecurso": "¿Qué es un valor?",
-        "category": "video",
-        "recurso": "<iframe class='embed-responsive-item' src='https://www.youtube.com/embed/h5qoUg2jACw' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen=''></iframe>"
-      },
-      {
-        "seccion": "2.4",
-        "titulo": "Balanced Scorecard",
-        "descripcionRecurso": "Cuadro de Mando Integral.",
-        "category": "video",
-        "recurso": "<iframe class='embed-responsive-item' src='https://express.adobe.com/video/9tEznS736I36p/embed' frameborder='0' allowfullscreen=''></iframe></div>"
-      },
-      {
-        "seccion": 2.5,
-        "titulo": "Qué es y Cómo se Hace un Análisis FODA?",
-        "descripcionRecurso": "¿Fortaleza o debilidad?",
-        "category": "video",
-        "recurso": "<iframe class='embed-responsive-item' src='https://www.youtube.com/embed/_6vz0-Hx9cE' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen=''></iframe>"
-      },
-      
-
-
-
       {
         "seccion": 2.2,
         "titulo": "Actividad de Introducción al DT",
@@ -287,6 +261,20 @@
         "recurso": "<iframe loading='lazy' src='assets/data/Extra_2_3.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
+        "seccion": "2.1.1",
+        "titulo": "Buyer Persona",
+        "descripcionRecurso": "Identificación y personificación de tu cliente ideal",
+        "category": "reading",
+        "recurso": "<iframe loading='lazy' src='assets/data/InfoBuyerPersona.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+      },
+      {
+        "seccion": 2.2,
+        "titulo": "Teoría de Benchmarking",
+        "descripcionRecurso": "Infografía sobre la teoría de Benchmarking",
+        "category": "reading",
+        "recurso": "<iframe loading='lazy' src='assets/data/BenchmarkingInfo.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+      },
+      {
         "seccion": 2.3,
         "titulo": "Guía para el diseño de modelo Canvas",
         "descripcionRecurso": "Guía para el diseño de modelos de negocios basado en el modelo Canvas",
@@ -307,7 +295,6 @@
         "category": "reading",
         "recurso": "<iframe title='INNOVACIÓN Y LA GESTIÓN DEL MERCADO' class='embed-responsive-item' frameborder='0' src='https://view.genially.com/67eb1c47fbde99f53707372f' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>"
       }
-
     ]
   },
   {
@@ -320,8 +307,9 @@
     "competencia": "Formula la estructura técnica y ambiental del proyecto con base en su metodología, plan desarrollo y sostenibilidad.",
     "lemma": "No todos podemos todo.",
     "evaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
-    "autoevaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
+    "autoevaluacion": "<iframe loading='lazy' frameborder='0' style='width: 100%; height: 50rem;' src='https://docs.google.com/forms/d/e/1FAIpQLSc3mDEx-goKh-D309hZ4V8C7D23nHp9dZN_XmypLT1FDQy9VQ/viewform?usp=header' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
     "coevaluacion": "<iframe loading='lazy' frameborder='0' style='width: 100%; height: 50rem;' src='https://docs.google.com/forms/d/e/1FAIpQLSfscc3APzBOcuhHTOOfUDIhuGRi96nye1eWT02-4Ag4uEcWbA/viewform?usp=header' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
+    "extraLabel": "Podcasts",
     "contenido": [
       {
         "seccion": 3.1,
@@ -384,17 +372,45 @@
         "titulo": "Documentación",
         "descripcionRecurso": "",
         "keywords": [],
-        "unidad": "<h3 class='text-center'>Sección sin información</h3>"
+        "unidad": "<p>La documentación en ingeniería de software es un conjunto de artefactos que describen diversos aspectos de un sistema, como su arquitectura, funcionalidades, procesos y decisiones de diseño.</b></p><br><p>Su propósito es facilitar la comprensión y mantenimiento del software por parte de todos los involucrados.</p><br><div style='display: flex; justify-content:center;'>  <div style='position: relative; display: flex; justify-content: center;'>    <img style='width: 50rem;' src='assets/img/3_2_5_Documentacion.jpg'>     <div class='text-white text-wrap' style='position: absolute; bottom: 1rem; left: 1rem; padding: 0.5rem; border-radius: 0.5rem; font-size: 1.2rem;  ' data-toggle='collapse' data-target='#reqCollapse' aria-expanded='false' aria-controls='reqCollapse'>         <a class='text-reset' style='color: white;'>Fuente</a>         <span class='collapse' id='reqCollapse'> :https://www.freepik.es/foto-gratis/documentos-organizacion-adultos-jovenes_26298151.htm#from_element=detail_alsolike</span>     </div></div></div><br><p> Murugesan, S. (2025, 21 febrero). Una guía completa sobre la documentación de arquitectura de software. Document360.<a style='color: blue;' target='_blank' href='https://document360.com/es/blog/documentacion-de-arquitectura-de-software/'>/https://document360.com/es/blog/documentacion-de-arquitectura-de-software/</a></p>"
       },
       {
         "seccion": 3.3,
         "titulo": "Gestión de sostenibilidad",
         "descripcionRecurso": "",
         "keywords": [],
-        "unidad": "<h3 class='text-center'>Sección sin información</h3>"
+        "unidad": "<p>La gestión de sostenibilidad software es una herramienta tecnológica que ayuda a las organizaciones a gestionar, monitorear y reportar sus prácticas y desempeño en términos de sostenibilidad ambiental, social y de gobernanza.</p><br><div style='display: flex; justify-content:center;'>  <div style='position: relative; display: flex; justify-content: center;'>    <img style='width: 50rem;' src='assets/img/3_3_Sostenibilidad.jpg'>     <div class='text-white text-wrap' style='position: absolute; bottom: 1rem; left: 1rem; padding: 0.5rem; border-radius: 0.5rem; font-size: 1.2rem;  ' data-toggle='collapse' data-target='#reqCollapse' aria-expanded='false' aria-controls='reqCollapse'>         <a class='text-reset' style='color: white;'>Fuente</a>         <span class='collapse' id='reqCollapse'> :https://www.freepik.es/vector-gratis/vector-plantilla-redes-sociales-ecologicas-conjunto-tonos-tierra_17213706.htm#from_element=detail_alsolike</span>     </div></div></div><br><p>Salgado, L. (2023, 27 julio). Software de sostenibilidad, la herramienta esencial para la gestión ESG. APLANET.<a style='color: blue;' target='_blank' href='https://aplanet.org/es/recursos/software-de-sostenibilidad/'>/https://aplanet.org/es/recursos/software-de-sostenibilidad/</a></p>"
       }
     ],
     "recurso": [
+      {
+        "seccion": "",
+        "titulo": "El entrevistador",
+        "descripcionRecurso": "Cortometraje sobre la inclusión laboral de personas con discapacidad intelectual",
+        "category": "video",
+        "recurso": "<iframe class='embed-responsive-item' src='https://www.youtube.com/embed/faz1rNCR4Mg?si=zzUyslNld4aIYuL1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen=''></iframe>"
+      },
+      {
+        "seccion": "3.2.1",
+        "titulo": "Requerimientos funcionales y no funcionales",
+        "descripcionRecurso": "Video sobre la diferencia entre requerimientos funcionales y no funcionales",
+        "category": "video",
+        "recurso": "<iframe class='embed-responsive-item' src='https://www.youtube.com/embed/qqizbSCp7aY?si=pfnQSF8gvE2s1sac' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen=''></iframe>"
+      },
+      {
+        "seccion": "3.2.1",
+        "titulo": "La arquitectura de software es esencial",
+        "descripcionRecurso": "Video sobre definición y propósito de la arquitectura de software",
+        "category": "video",
+        "recurso": "<iframe class='embed-responsive-item' src='https://www.youtube.com/embed/0Qdcx0AcjHc?si=RDyC2eCPjzpTaHh-' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen=''></iframe>"
+      },
+      {
+        "seccion": "3.1",
+        "titulo": "Análisis de Riesgos",
+        "descripcionRecurso": "Infografía sobre el análisis de riesgos en la gestión de proyectos.",
+        "category": "reading",
+        "recurso": "<iframe loading='lazy' src='assets/data/AnalisisRiesgos.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+      },
       {
         "seccion": 3.1,
         "titulo": "Gestión técnica y ambiental del proyecto",
@@ -416,6 +432,7 @@
     "evaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
     "autoevaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
     "coevaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
+    "extraLabel": "Podcasts",
     "contenido": [
       {
         "seccion": 4.1,
@@ -534,6 +551,7 @@
     "evaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
     "autoevaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
     "coevaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
+    "extraLabel": "Podcasts",
     "contenido": [
       {
         "seccion": 5.1,
