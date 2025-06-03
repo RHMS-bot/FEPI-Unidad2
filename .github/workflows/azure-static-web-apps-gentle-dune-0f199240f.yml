@@ -18,14 +18,6 @@ jobs:
        id-token: write
        contents: read
     steps:
-      - name: Adjust permissions
-        run: chmod -R u+w .git
-
-      - name: Unset Git Configurations
-        run: |
-         if git config --local --name-only --get-regexp http.https://github.com/.extraheader; then
-          git config --local --unset-all http.https://github.com/.extraheader
-         fi
       - uses: actions/checkout@v3
         with:
           submodules: true
