@@ -16,7 +16,7 @@
       {
         "section": 1.1,
         "title": "Ejemplo de plantilla de actividades",
-        "embed": "<iframe loading='lazy' src='assets/data/Ejemplo_Plantilla.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+        "embed": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/Ejemplo_Plantilla.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
       }
     ],
     "contenido": [
@@ -111,7 +111,7 @@
         "titulo": "Árbol de problemas",
         "descripcionRecurso": "Metodología para el análisis de problemas",
         "category": "reading",
-        "recurso": "<iframe loading='lazy' src='assets/data/ArbolProblemas.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+        "recurso": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/ArbolProblemas.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
         "seccion": 1,
@@ -131,7 +131,7 @@
     },
     "lemma": "Bien anda el que lleva el caballo por la brida.",
     "competencia": "Formula un estudio de mercado con base en la metodología Design thinking.",
-    "evaluacion": "<iframe loading='lazy' src='assets/data/Evaluacion_2.pdf' style='width: 100%; height: 70rem;'></iframe>",
+    "evaluacion": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/Evaluacion_2.pdf&embedded=true' style='width: 100%; height: 70rem;'></iframe>",
     "autoevaluacion": "<iframe loading='lazy' frameborder='0'  style='width: 100%; height: 50rem;' src='https://docs.google.com/forms/d/e/1FAIpQLSc4x6eBH5P9yJt_LSO9z4jKZxLBtXu11067RjcLqyM5v7V3Lg/viewform?usp=header' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
     "coevaluacion": "<iframe loading='lazy' frameborder='0' style='width: 100%; height: 50rem;' src='https://docs.google.com/forms/d/e/1FAIpQLSfscc3APzBOcuhHTOOfUDIhuGRi96nye1eWT02-4Ag4uEcWbA/viewform?usp=header' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
     "extraLabel": "Formatos",
@@ -139,22 +139,22 @@
       {
         "section": 2.1,
         "title": "Al buen entendedor, pocas palabras",
-        "embed": "<iframe loading='lazy' src='assets/data/Actividad_2_1.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+        "embed": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/Actividad_2_1.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
         "section": 2.2,
         "title": "Dime con quién andas y te diré quién eres",
-        "embed": "<iframe loading='lazy' src='assets/data/Actividad_2_2.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+        "embed": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/Actividad_2_2.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
         "section": "2.3, 2.4",
         "title": "Por los frutos se conoce al árbol. No me salgas con que a Chuchita la bolsearon",
-        "embed": "<iframe loading='lazy' src='assets/data/Actividad_2_3_4.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+        "embed": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/Actividad_2_3_4.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
         "section": 2.5,
         "title": "En la obra se conoce al artesano",
-        "embed": "<iframe loading='lazy' src='assets/data/Actividad_2_5.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+        "embed": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/Actividad_2_5.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
       }
     ],
     "contenido": [
@@ -178,7 +178,7 @@
         "titulo": "Empatizar con el usuario y explorar el mercado",
         "descripcionRecurso": "",
         "keywords": [],
-        "unidad": "<p>Consiste en conocer las necesidades de los usuarios implicados en la solución que estamos desarrollando, para producir soluciones consecuentes con la realidad observada.</p><br>        <iframe loading='lazy' src='assets/data/InfoBuyerPersona.pdf' class='embed-responsive-item' style='width: 100%; height: 50rem;' ></iframe>   <br><br><p> Garcia, N. (2025, January 13). ¿Qué es Design Thinking? Proceso, características y fases - Design Thinking en Español. Design Thinking en Español, la primera plataforma online en difundir contenido libre en español sobre el método Design Thinking e innovación. <a style='color: blue;' target='_blank' href='https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/'>https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/</a></p>"
+        "unidad": "<p>Consiste en conocer las necesidades de los usuarios implicados en la solución que estamos desarrollando, para producir soluciones consecuentes con la realidad observada.</p><br>        <iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/InfoBuyerPersona.pdf&embedded=true' class='embed-responsive-item' style='width: 100%; height: 50rem;' ></iframe>   <br><br><p> Garcia, N. (2025, January 13). ¿Qué es Design Thinking? Proceso, características y fases - Design Thinking en Español. Design Thinking en Español, la primera plataforma online en difundir contenido libre en español sobre el método Design Thinking e innovación. <a style='color: blue;' target='_blank' href='https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/'>https://designthinking.es/que-es-design-thinking-proceso-caracteristicas-y-fases/</a></p>"
       },
       {
         "seccion": "2.2.2",
@@ -230,56 +230,56 @@
         "titulo": "Actividad de Introducción al DT",
         "descripcionRecurso": "Formato utilizado en la actividad 2.2",
         "category": "extra",
-        "recurso": "<iframe loading='lazy' src='assets/data/Extra_2_2.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+        "recurso": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/Extra_2_2.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
         "seccion": "2.2.1",
         "titulo": "Clasificación de producto",
         "descripcionRecurso": "Formato utilizado en la actividad 2.2.1",
         "category": "extra",
-        "recurso": "<iframe loading='lazy' src='assets/data/Extra_2_2_1.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+        "recurso": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/assets/data/Extra_2_2_1.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
         "seccion": "2.2.2",
         "titulo": "Actividad buyer persona, entrevista a tu adulto",
         "descripcionRecurso": "Formato utilizado en la actividad 2.2.2",
         "category": "extra",
-        "recurso": "<iframe loading='lazy' src='assets/data/Extra_2_2_2.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+        "recurso": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/Extra_2_2_2.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
         "seccion": "2.2.3",
         "titulo": "Rediseñar la cartera/mochila",
         "descripcionRecurso": "Formato utilizado en la actividad 2.2.3",
         "category": "extra",
-        "recurso": "<iframe loading='lazy' src='assets/data/Extra_2_2_3.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+        "recurso": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/Extra_2_2_3.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
         "seccion": "2.3",
         "titulo": "Modelo Canvas",
         "descripcionRecurso": "Formato utilizado en la actividad 2.3",
         "category": "extra",
-        "recurso": "<iframe loading='lazy' src='assets/data/Extra_2_3.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+        "recurso": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/Extra_2_3.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
         "seccion": "2.1.1",
         "titulo": "Buyer Persona",
         "descripcionRecurso": "Identificación y personificación de tu cliente ideal",
         "category": "reading",
-        "recurso": "<iframe loading='lazy' src='assets/data/InfoBuyerPersona.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+        "recurso": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/InfoBuyerPersona.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
         "seccion": 2.2,
         "titulo": "Teoría de Benchmarking",
         "descripcionRecurso": "Infografía sobre la teoría de Benchmarking",
         "category": "reading",
-        "recurso": "<iframe loading='lazy' src='assets/data/BenchmarkingInfo.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+        "recurso": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/BenchmarkingInfo.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
         "seccion": 2.3,
         "titulo": "Guía para el diseño de modelo Canvas",
         "descripcionRecurso": "Guía para el diseño de modelos de negocios basado en el modelo Canvas",
         "category": "reading",
-        "recurso": "<iframe loading='lazy' src='assets/data/Reading_2_3.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+        "recurso": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/Reading_2_3.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
         "seccion": 2.3,
@@ -409,7 +409,7 @@
         "titulo": "Análisis de Riesgos",
         "descripcionRecurso": "Infografía sobre el análisis de riesgos en la gestión de proyectos.",
         "category": "reading",
-        "recurso": "<iframe loading='lazy' src='assets/data/AnalisisRiesgos.pdf' class='embed-responsive-item' frameborder='0'></iframe>"
+        "recurso": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/src/assets/data/AnalisisRiesgos.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
         "seccion": 3.1,
