@@ -18,6 +18,13 @@ jobs:
        id-token: write
        contents: read
     steps:
+      - name: Mostrar tamaño y archivos del directorio de salida
+        run: |
+          echo "Tamaño total:"
+          du -sh dist/formulacion-proyectos
+          echo "Archivos más pesados:"
+          find dist/formulacion-proyectos -type f -exec du -h {} + | sort -rh | head -n 30
+
       - uses: actions/checkout@v3
         with:
           submodules: true
