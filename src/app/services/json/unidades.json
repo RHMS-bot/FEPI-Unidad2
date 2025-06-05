@@ -237,7 +237,7 @@
         "titulo": "Clasificación de producto",
         "descripcionRecurso": "Formato utilizado en la actividad 2.2.1",
         "category": "extra",
-        "recurso": "<iframe loading='lazy' src='https://docs.google.com/gview?url=https://raw.githubusercontent.com/RHMS-bot/EProyectosInformaticos/main/assets/data/Extra_2_2_1.pdf&embedded=true' class='embed-responsive-item' frameborder='0'></iframe>"
+        "recurso": "<iframe loading='lazy' src='https://drive.google.com/file/d/1uVPZ5GMFAjUF9Oe98es6xM2pCNhF-wYx/preview' class='embed-responsive-item' frameborder='0'></iframe>"
       },
       {
         "seccion": "2.2.2",
