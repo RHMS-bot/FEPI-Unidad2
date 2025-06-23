@@ -4,7 +4,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# Recurso Didáctico Digital para la asignatura de Formulación yy Evaluación de Proyectos Informáticos
+# Recurso Didáctico Digital para la asignatura de Formulación y Evaluación de Proyectos Informáticos
 
 This work is licensed under a [GPL v3](https://www.gnu.org/licenses/gpl-3.0) software license and a
 [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License][cc-by-nc-sa] content license.
