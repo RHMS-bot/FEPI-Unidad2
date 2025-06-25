@@ -429,9 +429,9 @@
     },
     "competencia": "Formula los presupuestos requeridos en el proyecto con base en la inversión, ingresos, egresos y ventas.",
     "lemma": "Ni picha, ni cacha, ni deja batear.",
-    "evaluacion": "<iframe loading='lazy' src='https://drive.google.com/file/d/1vuEboW_QmEVYgTfh5CJd1BVYNx0Qja3m/preview' style='width: 100%; height: 70rem;'></iframe>",
+    "evaluacion": "",
     "autoevaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
-    "coevaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
+    "coevaluacion": "<iframe loading='lazy' frameborder='0' style='width: 100%; height: 50rem;' src='https://docs.google.com/forms/d/e/1FAIpQLSfscc3APzBOcuhHTOOfUDIhuGRi96nye1eWT02-4Ag4uEcWbA/viewform?usp=header' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
     "extraLabel": "Podcasts",
     "contenido": [
       {
@@ -532,10 +532,10 @@
       },
       {
         "seccion": 4.1,
-        "titulo": "Aún no existe información para esta unidad",
-        "descripcionRecurso": "",
-        "unidad": "<h3 class='text-center'>Sección sin información</h3>",
-        "recurso": ""
+        "titulo": "Gestión del presupuesto del proyecto",
+        "descripcionRecurso": "Presentación de genial.ly sobre la gestión del presupuesto delproyecto.",
+        "category": "reading",
+        "recurso": "<iframe title='GESTIÓN DEL PRESUPUESTO DEL PROYECTO' class='embed-responsive-item' frameborder='0' src='https://view.genially.com/68475f26152816a8a20199a2' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>"
       }
     ]
   },
@@ -548,9 +548,9 @@
     },
     "competencia": "Evalúa el proyecto informático con base en los indicadores financieros y la matriz de análisis integral.",
     "lemma": "El que no enseña, no vende.",
-    "evaluacion": "<iframe loading='lazy' src='https://drive.google.com/file/d/1vuEboW_QmEVYgTfh5CJd1BVYNx0Qja3m/preview' style='width: 100%; height: 70rem;'></iframe>",
+    "evaluacion": "",
     "autoevaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
-    "coevaluacion": "<h3 class='text-center mt-4'>Sección sin información</h3>",
+    "coevaluacion": "<iframe loading='lazy' frameborder='0' style='width: 100%; height: 50rem;' src='https://docs.google.com/forms/d/e/1FAIpQLSfscc3APzBOcuhHTOOfUDIhuGRi96nye1eWT02-4Ag4uEcWbA/viewform?usp=header' type='text/html' allowscriptaccess='always' allowfullscreen='true' scrolling='yes' allownetworking='all'></iframe>",
     "extraLabel": "Podcasts",
     "contenido": [
       {
