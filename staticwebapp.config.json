@@ -5,15 +5,16 @@
       "allowedRoles": ["anonymous"]
     },
     {
+      "route": "/",
+      "allowedRoles": ["anonymous"]
+    },
+    {
       "route": "/*",
       "statusCode": 403
     }
   ],
   "navigationFallback": {
     "rewrite": "index.html",
-    "exclude": [
-      "/assets/*.{png,jpg,pdf,gif,ico,svg}",
-      "/*.{css,scss,js,ico,png,jpg,txt}"
-    ]
+    "exclude": ["/assets/*", "/*.css", "/*.js"]
   }
 }
