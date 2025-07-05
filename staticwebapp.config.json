@@ -1,4 +1,14 @@
 {
+  "routes": [
+    {
+      "route": "/unidades/2",
+      "allowedRoles": ["anonymous"]
+    },
+    {
+      "route": "/*",
+      "statusCode": 403
+    }
+  ],
   "navigationFallback": {
     "rewrite": "index.html",
     "exclude": [
