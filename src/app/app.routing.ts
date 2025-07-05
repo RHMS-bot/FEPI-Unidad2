@@ -4,7 +4,7 @@ import { UnidadesComponent } from './components/unidades/unidades.component';
 
 const routes: Routes = [
   { path: 'unidades/2', component: UnidadesComponent },
-  { path: '**', redirectTo: 'unidades/2' }  // Redirige cualquier otra ruta a esta
+  { path: '**', redirectTo: 'unidades/2' } 
 ];
 
 @NgModule({
