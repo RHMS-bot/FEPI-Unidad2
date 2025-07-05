@@ -1,14 +1,14 @@
-import { ModuleWithProviders } from '@angular/core';
-import { Routes, RouterModule } from '@angular/router';
-import { HomeComponent } from './components/home/home.component';
+import { NgModule } from '@angular/core';
+import { RouterModule, Routes } from '@angular/router';
 import { UnidadesComponent } from './components/unidades/unidades.component';
+
 const routes: Routes = [
-  { path: '', component: HomeComponent },
-  { path: 'unidades/:id', component: UnidadesComponent },
-  { path: '**', component: HomeComponent },
+  { path: 'unidades/2', component: UnidadesComponent },
+  { path: '**', redirectTo: 'unidades/2' }  // Redirige cualquier otra ruta a esta
 ];
 
-export const routingProviders: any[] = [];
-export const routing: ModuleWithProviders<any> = RouterModule.forRoot(routes, {
-  scrollPositionRestoration: 'enabled',
-});
+@NgModule({
+  imports: [RouterModule.forRoot(routes)],
+  exports: [RouterModule]
+})
+export class AppRoutingModule { }
