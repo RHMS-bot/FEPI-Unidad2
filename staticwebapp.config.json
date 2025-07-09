@@ -1,9 +1,24 @@
 {
+  "routes": [
+    {
+      "route": "/unidades/2",
+      "allowedRoles": ["anonymous"]
+    },
+    {
+      "route": "/",
+      "allowedRoles": ["anonymous"]
+    }
+  ],
   "navigationFallback": {
-    "rewrite": "index.html",
+    "rewrite": "/index.html",
     "exclude": [
-      "/assets/*.{png,jpg,pdf,gif,ico,svg}",
-      "/*.{css,scss,js,ico,png,jpg,txt}"
+      "/assets/*",
+      "/*.css",
+      "/*.js",
+      "/*.ico",
+      "/*.png",
+      "/*.svg",
+      "/*.json"
     ]
   }
 }
