@@ -4,9 +4,9 @@ import { HomeComponent } from './components/home/home.component';
 import { UnidadesComponent } from './components/unidades/unidades.component';
 
 const routes: Routes = [
-  { path: '', component: HomeComponent },
+  
   { path: 'unidades/2', component: UnidadesComponent },
-  { path: '**', redirectTo: '' }
+  { path: '**', redirectTo: 'unidades/2' }
 ];
 
 export const routingProviders: any[] = [];
